@@ -1,0 +1,32 @@
+.footer{
+    height:70vh;
+    width: 100%;
+    align-items: center;
+}
+
+#row{
+    height: 100%;
+    width: 100%;
+}
+
+#first{
+    /*background-color: blue;*/
+    background-image: url('../images/undraw_Lost_online_re_upmy.svg');
+    background-position: 40% 40%;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#second{
+    /*background-color: tomato;*/
+    background-image: url('../images/undraw_File_sync_re_0pcx.svg');
+    background-position: 40% 40%;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#third{
+    /*background-color: springgreen;*/
+    background-image: url('../images/undraw_stars_re_6je7.svg');
+    background-position: 40% 40%;
+    background-size: contain;
+    background-repeat: no-repeat;
+}

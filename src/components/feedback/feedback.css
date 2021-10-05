@@ -1,0 +1,23 @@
+.feedback{
+    height:25vh;
+    padding-top: 4%;
+    background-color:#2E2E2E;
+}
+.feedback Container{
+    height: 100%;
+}
+#feedbackText{
+    color:white;
+}
+#feedbackInput{
+    margin-top: 1%;
+    border-radius:5%;
+    width: 50%;
+    height: 6vh;
+}
+#feedbackSubmit{
+    margin-left: 5%;
+    border-radius:5%;
+    width: 100px;
+    height: 6vh;
+}

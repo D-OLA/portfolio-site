@@ -1,0 +1,25 @@
+.bottom{
+    width: 100%;
+    margin-top: 5px;
+    height: max-content;
+    background-color: rgb(216, 109, 67);
+}
+.cards{
+    height:100%;
+}
+.container{
+    height: 100%;
+    
+    padding-bottom:10%;
+}
+.rows{
+    height: 35%;
+    padding-top:5%;
+    width: 80%;
+}
+.card{
+    height: 100%;
+}
+.rows a{
+    list-style: none;
+}

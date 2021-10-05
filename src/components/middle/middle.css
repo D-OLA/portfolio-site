@@ -1,0 +1,14 @@
+.middle{
+    width: 100%;
+    text-align: left;
+    font-size:1.4vw;
+    color: white;
+    height: 15vh;
+    background-color: #2E2E2E;
+}
+
+.middle p{
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-top: 1.5vh;
+}
